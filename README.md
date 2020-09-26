@@ -1,0 +1,2 @@
+# redesSoc
+Trabajo Aplicada
